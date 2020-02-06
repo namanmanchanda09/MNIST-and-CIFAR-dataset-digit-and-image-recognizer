@@ -10,4 +10,8 @@ Predicted : 7
 
 ### It predicts the object or the animal using the CIFAR dataset from the Keras library.
 
+![Screenshot 2020-02-06 at 2 26 14 PM](https://user-images.githubusercontent.com/35381035/73921266-02399a80-48ed-11ea-807f-7f0ec7341312.png)
+
+Predicted : Dog
+
 
